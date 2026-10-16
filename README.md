@@ -24,7 +24,7 @@ Acesse http://localhost:3000
 ## Como rodar com Docker
 ```bash
 docker build -t techsecure-app .
-docker run -p 8080:3000 techsecure-app
+docker run -p 8080:3000 SecurityUrbanSabor-app
 ```
 Acesse http://localhost:8080
 
