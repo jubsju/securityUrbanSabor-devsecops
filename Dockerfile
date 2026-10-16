@@ -1,5 +1,5 @@
 FROM node:20-alpine
-LABEL org.opencontainers.image.source="https://github.com/jubsju/techsecure-devsecops"
+LABEL org.opencontainers.image.source="https://github.com/jubsju/securityUrbanSabor-devsecops"
 RUN apk upgrade --no-cache
 WORKDIR /app
 COPY package*.json ./
