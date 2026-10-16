@@ -132,7 +132,7 @@ function pagina() {
     </div>
 
     <h2>Sobre o projeto</h2>
-    <p class="sobre">Prova de conceito de uma esteira CI/CD com segurança integrada, criada para a empresa fictícia TechSecure Solutions. A cada alteração no código, a pipeline compila, testa, analisa vulnerabilidades, constrói a imagem e atualiza o container automaticamente.</p>
+    <p class="sobre">Prova de conceito de uma esteira CI/CD com segurança integrada, criada para a empresa fictícia Security Urban Sabor. A cada alteração no código, a pipeline compila, testa, analisa vulnerabilidades, constrói a imagem e atualiza o container automaticamente.</p>
 
     <h2>Fluxo da esteira</h2>
     <ol>${etapas}
