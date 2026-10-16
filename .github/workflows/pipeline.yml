@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  IMAGE: ghcr.io/jubsju/techsecure-app
+  IMAGE: ghcr.io/jubsju/securityUrbanSabor-app
 
 jobs:
   build-test-scan:
