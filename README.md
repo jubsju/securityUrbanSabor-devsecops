@@ -1,4 +1,4 @@
-# TechSecure Solutions - Esteira CI/CD Segura (AP II DevSecOps)
+# security Urban Sabor - Esteira CI/CD Segura (AP II DevSecOps)
 
 Prova de conceito de esteira CI/CD com seguranca integrada (DevSecOps).
 
