@@ -9,7 +9,7 @@ app.disable('x-powered-by');
 const NOME_PROJETO = 'Security Urban Sabor';
 const SUBTITULO = 'Esteira CI/CD segura com DevSecOps';
 const VERSAO = '1.0';
-const INTEGRANTES = ['Integrante 1', 'Integrante 2', 'Integrante 3'];
+const INTEGRANTES = ['Julia Paiva', 'Enzo Chagas', 'Brunna Morales'];
 // ==============================================================
 
 const ETAPAS = [
