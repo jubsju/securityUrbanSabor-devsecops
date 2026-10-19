@@ -8,7 +8,7 @@ app.disable('x-powered-by');
 // ===== EDITE AQUI (nome, subtítulo, versão e integrantes) =====
 const NOME_PROJETO = 'Security Urban Sabor';
 const SUBTITULO = 'Esteira CI/CD segura com DevSecOps';
-const VERSAO = '1.0';
+const VERSAO = '2.0';
 const INTEGRANTES = ['Julia Paiva', 'Enzo Chagas', 'Brunna Morales'];
 // ==============================================================
 
